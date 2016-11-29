@@ -2,6 +2,7 @@
 
 Registering for courses at the UW is often a messy process. Students are often using a **combination of services** to accomplish one task— figure out next quarter’s schedule. From MyPlan to Schedule Finder to Rate My Professor, students have to use a use a wide variety of web applications and sites in order to be able to make a well thought out, ideal schedule. 
 
+---
 **Frequently used the web applications during the process are**: 
 
 **MyPlan**: This is how students will store their planned courses. Students also search for courses, and view course pre requisites. MyPlan allows students to compare up to three schedules side-by-side, and generates up to 10 possible schedules in its “Build Your Schedule” feature.
@@ -12,6 +13,7 @@ Registering for courses at the UW is often a messy process. Students are often u
 
 **UW Campus Map**: This allows students to determine where classes are. Often times students will block courses and will have 10 minutes to commute to their next class. In that time, students need to make sure they have a schedule that is able to accommodate their commute, and will not have them running from the Fisheries Building to Mary Gates in 10 minutes. 
 
+---
 
 Our web application will be focused on agglomerating all that data to make registration easier. We will be prioritizing on the creating a more **flexible schedule planner**, before adding data from Rate My Professor and UW Campus Map. The new schedule planner will be able to allow the user to add classes and make them inactive to display different combinations. 
 
