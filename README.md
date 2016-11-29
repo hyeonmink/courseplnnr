@@ -22,7 +22,7 @@ For example, a user is planning on taking course A and B but is unsure between c
 Students at the UW have to register for courses every quarter until they graduate. It is currently a **stressful process as information is scattered everywhere** and browsers are spammed with the endless open tabs as students plan their next quarter. CoursePlnnr will be a great asset as it makes registration painless, and even fun. 
 
 ## Requirements
-Below are the features we will implement in CoursePlnnr
+Below are the features we will implement in CoursePlnnr:
   * Allowing users to edit and delete courses 
   * Allowing users to include courses that they are considering and allow them to toggle
   * Display warning signals when there is a time conflict, but continue to render the scedule highlighting where the overlap is
@@ -34,7 +34,11 @@ Below are the optional features we will implement if we are able to:
   * Displaying information from Google Maps about commutes between classes
   * Displaying warnings when the time to commute between classes is longer than the given time
 
+## Built With
+
 ## Authors
   * Andrea Chen
   * Min Kim
   * Simon Bang
+
+## Acknowledgements
