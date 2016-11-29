@@ -3,7 +3,7 @@
 Registering for courses at the UW is often a messy process. Students are often using a **combination of services** to accomplish one task— figure out next quarter’s schedule. From MyPlan to Schedule Finder to Rate My Professor, students have to use a use a wide variety of web applications and sites in order to be able to make a well thought out, ideal schedule. 
 
 ## Project Overview
-**Frequently used web applications during the process are**: rere
+**Frequently used web applications during the registration process are**: 
 
 **MyPlan**: This is how students will store their planned courses. Students also search for courses, and view course pre requisites. MyPlan allows students to compare up to three schedules side-by-side, and generates up to 10 possible schedules in its “Build Your Schedule” feature.
 
@@ -21,3 +21,20 @@ For example, a user is planning on taking course A and B but is unsure between c
 
 Students at the UW have to register for courses every quarter until they graduate. It is currently a **stressful process as information is scattered everywhere** and browsers are spammed with the endless open tabs as students plan their next quarter. CoursePlnnr will be a great asset as it makes registration painless, and even fun. 
 
+## Requirements
+Below are the features we will implement in CoursePlnnr
+  * Allowing users to edit and delete courses 
+  * Allowing users to include courses that they are considering and allow them to toggle
+  * Display warning signals when there is a time conflict, but continue to render the scedule highlighting where the overlap is
+  * Display warning signals when pre-reqs are not met or when sections are full, but still render as is
+  * Display course name, instructor, and time
+
+Below are the optional features we will implement if we are able to:
+  * Displaying information from Rate My Professor about the instructor
+  * Displaying information from Google Maps about commutes between classes
+  * Displaying warnings when the time to commute between classes is longer than the given time
+
+## Authors
+  * Andrea Chen
+  * Min Kim
+  * Simon Bang
