@@ -15,7 +15,7 @@ Registering for courses at the UW is often a messy process. Students are often u
 
 ---
 
-Our web application will be focused on agglomerating all that data to make registration easier. We will be prioritizing on the creating a more **flexible schedule planner**, before adding data from Rate My Professor and UW Campus Map. The new schedule planner will be able to allow the user to add classes and make them inactive to display different combinations. 
+Our web application will be focused on agglomerating all that data to make registration easier. We will be prioritizing on creating a more **flexible schedule planner**, before adding data from Rate My Professor and UW Campus Map. The new schedule planner will be able to allow the user to add classes and make them inactive to display different combinations. 
 
 For example, a user is planning on taking course A and B but is unsure between course C and D. Our web application will allow the user to toggle between course C and D, displaying an updated schedule to their preference. 
 
