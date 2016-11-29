@@ -3,6 +3,7 @@
 Registering for courses at the UW is often a messy process. Students are often using a **combination of services** to accomplish one task— figure out next quarter’s schedule. From MyPlan to Schedule Finder to Rate My Professor, students have to use a use a wide variety of web applications and sites in order to be able to make a well thought out, ideal schedule. 
 
 **Frequently used the web applications during the process are**: 
+
 **MyPlan**: This is how students will store their planned courses. Students also search for courses, and view course pre requisites. MyPlan allows students to compare up to three schedules side-by-side, and generates up to 10 possible schedules in its “Build Your Schedule” feature.
 
 **Schedule Finder**: This allows students to view possible course combinations without being required to lock in section times. It displays up to 10 possibilities and can display them in the accustomed visual format, the blocky, bright, contrasting colors. It’s kind of endearing in a way.
