@@ -1,5 +1,5 @@
 # courseplnnr
----
+
 Registering for courses at the UW is often a messy process. Students are often using a **combination of services** to accomplish one task— figure out next quarter’s schedule. From MyPlan to Schedule Finder to Rate My Professor, students have to use a use a wide variety of web applications and sites in order to be able to make a well thought out, ideal schedule. 
 
 ---
