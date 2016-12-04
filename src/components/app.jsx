@@ -1,12 +1,18 @@
 import React from "react";
-import moment from "moment";
+import SearchForm from "./search-form.jsx"
 
-export default class extends React.Component {
-	render() {
-		return (
-			<div>
-				<h1>Hello World!</h1>
-			</div>
-		);
-	}
+export default class App extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {};
+    }
+
+    render() {
+        return (
+            <div>
+                <img src="../../src/img/placeholder.jpg" alt=""/>
+                <SearchForm placeholder = "Class1, Class2, Class3..."></SearchForm>
+            </div>
+        );
+    }
 }
